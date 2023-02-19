@@ -20,3 +20,10 @@ vi demo.java
 git status
 apt - get install git
 sudo su
+clera
+clear
+ls
+rm -rf demo.java
+sudo su
+clear
+sudo su
